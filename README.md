@@ -4,4 +4,4 @@
 
 🌱 I’m currently sharpening my skills in Python, SQL and Tableau.
 
-📫 How to reach me trough my LinkedIn (https://www.linkedin.com/in/tomas-reis-marques/) or my email(tomas.r.marques@gmail.com).
+📫 You can reach me through my LinkedIn (https://www.linkedin.com/in/tomas-reis-marques/) or my email(tomas.r.marques@gmail.com).
